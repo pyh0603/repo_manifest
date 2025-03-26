@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<manifest>  
+    <remote name="repo-demo" fetch="/mnt/data/alan/controller/repo_demo" review="review.source.android.com" />  
+    <default revision="master" remote="repo-demo" />  
+    <project name="external/example1" path="external/example1"/>  
+    <project name="external/example2" path="external/example2"/>  
+</manifest>
+
