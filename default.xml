@@ -4,5 +4,6 @@
     <default revision="master" remote="repo-demo" />  
     <project name="external/example1" path="external/example1"/>  
     <project name="external/example2" path="external/example2"/>  
+    <project name="external/example3" path="external/example3"/>  
 </manifest>
 
