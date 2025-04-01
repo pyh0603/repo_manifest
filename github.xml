@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <manifest>  
-    <remote name="pyh0603" fetch="https://github.com/pyh0603" review="review.source.android.com" />  
+    <remote name="github" fetch="https://github.com/" review="" />  
     <default revision="master" remote="pyh0603" />  
-    <project name="example1" path="external/example1"/>  
-    <project name="example2" path="external/example2"/>  
-    <project name="example3" path="external/example3"/>  
+    <project name="pyh0603/example1" path="external/example1"/>  
+    <project name="pyh0603/example2" path="external/example2"/>  
+    <project name="pyh0603/example3" path="external/example3"/>  
 </manifest>
 
