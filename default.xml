@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>  
-<manifest>  
-    <remote name="repo-demo" fetch="/mnt/data/alan/controller/repo_demo" review="review.source.android.com" />  
-    <default revision="master" remote="repo-demo" />  
-    <project name="external/example1" path="external/example1"/>  
-    <project name="external/example2" path="external/example2"/>  
-    <project name="external/example3" path="external/example3"/>  
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="pyh0603" fetch="https://github.com/pyh0603" review="review.source.android.com" />
+    <default revision="master" remote="pyh0603" />
+    <project name="example1" path="external/example1"/>
+    <project name="example2" path="external/example2"/>
+    <project name="example3" path="external/example3"/>
 </manifest>
 
