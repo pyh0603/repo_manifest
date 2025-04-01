@@ -2,8 +2,8 @@
 <manifest>
     <remote name="pyh0603" fetch="git@github.com:pyh0603" review="review.source.android.com" />
     <default revision="master" remote="pyh0603" />
-    <project name="example1" path="external/example1"/>
-    <project name="example2" path="external/example2"/>
-    <project name="example3" path="external/example3"/>
+    <project name="repo_example1" path="external/example1"/>
+    <project name="repo_example2" path="external/example2"/>
+    <project name="repo_example3" path="external/example3"/>
 </manifest>
 
